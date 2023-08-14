@@ -1,0 +1,5 @@
+#!/bin/bash
+gcc -E$CFILE > c
+pwd
+gcc -E$0-processor>c
+

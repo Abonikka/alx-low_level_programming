@@ -1,3 +1,2 @@
 #!/bin/bash
-gcc -c $1-compiler
-ls
+gcc -c $CFILE

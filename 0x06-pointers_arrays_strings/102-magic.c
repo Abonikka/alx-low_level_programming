@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include<strings>
 /**
  * main - Entry_point
  * Description:'the_program's_description'
@@ -14,7 +15,6 @@ int main(void)
 	int *p;
 
 	x[2] - 1024;
-
 	p = &n;
 	;
 	/* ...so that this prints 98\n */

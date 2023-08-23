@@ -1,10 +1,9 @@
 #include <stdio.h>
-/*
+/**
  * main - Entry_point
- * Description: 'Add one line to this code' 
- * Return: Always 0
+ * Description: 'the program's description'
+ * Return: Always 0 (Success)
  */
-
 int main(void)
 {
 	int n;

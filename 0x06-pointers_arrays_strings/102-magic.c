@@ -4,7 +4,8 @@
  * Description:'the_program's_description'
  * written by chinagorom
  * Return: Always 0 (Success)
- */
+ * write your line of code here...
+*/
 int main(void)
 
 {
